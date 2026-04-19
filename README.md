@@ -1,3 +1,7 @@
+# NTI_Project_Frontend
+
+Frontend for the QUT AIML Motor Claims Predictive Dashboard. A React-based React/Vue/TypeScript interface providing real-time visualization of claim complexity scores, predictive timelines, and automated triaging for motor insurance claims.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
